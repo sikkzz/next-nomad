@@ -1,3 +1,9 @@
+
+
 export default function Test(){
-    return "hello"
+    return (
+        <div>
+            <h1>hello</h1>
+        </div>
+    )
 }
